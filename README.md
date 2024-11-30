@@ -2,6 +2,6 @@
 - Sorasit
   - Boss
 
-![alt text](IMG)
+![alt text](NisitProfile.jpg)
 
 [AUTHENTICATION](authentication)  
